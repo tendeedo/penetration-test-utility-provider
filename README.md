@@ -1,16 +1,17 @@
 <h1>Blackbox Penetration Test: Artemis</h1>
 
-
 <h3>Overview</h3>
 was used as a reflector to amplify the volume of this DDoS attack.
 <br>
-<br>
+
 <h3>My Role</h3>
 was used as a reflector to amplify the volume of this DDoS attack.
 <br>
+
 <h3>Relevant Tools</h3>
 was used as a reflector to amplify the volume of this DDoS attack.
 <br>
+
 <h3>Deliverables</h3>
 was used as a reflector to amplify the volume of this DDoS attack.<br>
 - Phase 1:<a href="https://github.com/tendeedo/artemis-penetration-testing/blob/main/Phase%201%20Perform%20Reconaissance.pdf"> Perform Reconaissance </a><br>
