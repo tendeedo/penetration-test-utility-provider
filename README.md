@@ -13,8 +13,20 @@ was used as a reflector to amplify the volume of this DDoS attack.
 
 <h3>Deliverables</h3>
 was used as a reflector to amplify the volume of this DDoS attack.
-- Phase 1: Perform Reconaissance
-- Phase 2: Identify Targets and Run Scans
-- Phase 3: Identify Vulnerabilities
-- Phase 4: Threat Assessment & Risk Register
-- Phase 5: Executive Summary & Technical Report
+- Phase 1:<a href="https://github.com/tendeedo/artemis-penetration-testing/blob/main/Phase%201%20Perform%20Reconaissance.pdf"> Perform Reconaissance </a>
+- Phase 2:<a href="https://github.com/tendeedo/artemis-penetration-testing/blob/main/Phase%202%20Identify%20Targets%20and%20Run%20Scans.pdf"> Identify Targets and Run Scans </a>
+- Phase 3:<a href="https://github.com/tendeedo/artemis-penetration-testing/blob/main/Phase%203%20Identify%20Vulnerabilities.pdf"> Identify Vulnerabilities </a>
+- Phase 4:<a href="https://github.com/tendeedo/artemis-penetration-testing/blob/main/Phase%204%20Threat%20Assessment.pdf"> Threat Assessment </a> & <a href="https://github.com/tendeedo/artemis-penetration-testing/blob/main/Phase%204%20Risk%20Register%20-%20Risk%20Register.pdf">Risk Register </a>
+- Phase 5:<a href="https://github.com/tendeedo/artemis-penetration-testing/blob/main/Phase%205%20Reporting%20-%20Executive%20Summary.pdf"> Executive Summary </a> & <a href="https://github.com/tendeedo/artemis-penetration-testing/blob/main/Phase%205%20Reporting%20-%20Technical%20Report.pdf">Technical Report </a>
+
+
+
+
+
+
+
+
+
+
+
+
